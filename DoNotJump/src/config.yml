@@ -1,0 +1,22 @@
+# ==========[SETTINGS]==========
+# Settings for DoNotJump.
+# ==========[DEFAULT]==========
+# donotjump: true
+# world: true
+# world_nether: true
+# world_the_end: true
+# ==========[COMMANDS]==========
+# /donotjump or /dnjhelp
+# The help command of DoNotJump.
+# /dnjconfig
+# Change the config of DoNotJump.
+# /dnjreload
+# Reload DoNotJump.
+# ==========[PERMISSIONS]==========
+# donotjump.*
+# Gives acces to all commands.
+# ==============================
+donotjump: true
+world: true
+world_nether: true
+world_the_end: true
